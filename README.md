@@ -26,7 +26,7 @@ _Digital Craftsman_
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://ayubislam1.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://mdayub-portfolio.netlify.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
