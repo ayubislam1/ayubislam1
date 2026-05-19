@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner-tech2.png" alt="Header Image" width="100%">
+  <img src="./banner-tech2-h400.png" alt="Header Image" width="100%">
 </p>
 
 <!--Night Owl image-->
