@@ -11,7 +11,7 @@
 </br></br></br></br></br></br>
 
 <!--Header Name-->
-_Digital Craftsman_ <br />
+
 
 <!--Start Intro-->
 <p align="left">I am a Software Developer passionate about building robust and scalable applications.</p>
