@@ -18,7 +18,7 @@
 
 - ✨ Student of life :)
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://mdayub-portfolio.netlify.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://ayubislam1.vercel.app) for more details about me.
 - 🔭 I work with **JavaScript / React / Node.js** on the frontend and **C# / .NET** on the backend.
 - 🚀 I enjoy crafting full-stack solutions from UI to API.
 
