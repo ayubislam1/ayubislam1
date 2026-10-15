@@ -113,7 +113,10 @@ flowchart LR
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayubislam1&label=profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -121,17 +124,10 @@ flowchart LR
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ayubislam1&theme=tokyonight&hide_border=true&background=0D1117" />
     <img src="https://streak-stats.demolab.com?user=ayubislam1&theme=default&hide_border=true" alt="GitHub streak" height="165" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayubislam1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&hide=stars" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ayubislam1&show_icons=true&count_private=true&theme=default&hide_border=true&rank_icon=github&hide=stars" alt="GitHub stats" height="165" />
-  </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/github-snake.svg" alt="Snake eating my contribution graph" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=ayubislam1&label=profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
