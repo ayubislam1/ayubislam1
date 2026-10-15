@@ -1,4 +1,4 @@
-name: Generate 3D contribution graph
+name: Generate contribution skyline
 
 on:
   schedule:
@@ -13,16 +13,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+      - uses: actions/checkout@v5
+
+      - name: Render skyline
+        run: python3 .github/scripts/skyline.py "${{ github.repository_owner }}" dist/skyline.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: profile-3d-contrib
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -113,10 +113,7 @@ flowchart LR
 ## 📊 GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/profile-night-rainbow.svg" />
-    <img src="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ayubislam1/ayubislam1/output/skyline.svg" alt="My contribution graph as a night-city skyline: each building is one week of contributions" width="100%" />
 </p>
 
 <p align="center">
