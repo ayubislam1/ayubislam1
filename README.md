@@ -89,8 +89,8 @@ const ayub = {
 | 🖥️ **NeuroLauncher** | Desktop launcher that installs, licenses and opens a client's games and tools, with an admin panel. | Electron · React · TypeScript · Socket.IO | 🔒 Private (client) |
 | 🛒 **Gift Cards Zone BD** | Live store for gift cards, game keys and mobile recharge, with orders, reviews and a customer dashboard. | Next.js · Mantine · Redux Toolkit | [Live](https://giftcardszonebd.com) |
 | 🗄️ **Device Management System** | Client's device management platform with document, export and warehouse features, plus a support portal with ticketing, live chat and an AI assistant. | Next.js · Node.js · Express · MongoDB | 🔒 Private (client) |
-| 🛍️ **ShopSphere** | Multi-vendor e-commerce platform with Stripe checkout, vendor dashboards, real-time buyer–vendor chat and an admin panel. Team project. | Next.js · MongoDB · NextAuth · Socket.IO · Stripe | [Live](https://shops-sphere.vercel.app) · [Code](https://github.com/Team-Synergy1/shop_sphere) |
-| 💻 **Gadget Heaven** | Gadget store for laptops, phones, headphones and watches, with a persistent cart, price sorting, wishlist and checkout flow. | React · React Router · Tailwind CSS · Recharts | [Live](https://gadget1.netlify.app) · [Code](https://github.com/ayubislam1/Gadget-Heaven) |
+| 🛍️ **ShopSphere** | Multi-vendor e-commerce platform with Stripe checkout, vendor dashboards, real-time buyer–vendor chat and an admin panel. Team project. | Next.js · MongoDB · NextAuth · Socket.IO · Stripe | [🌐 Live](https://shops-sphere.vercel.app/) |
+| 💻 **Gadget Heaven** | Gadget store for laptops, phones, headphones and watches, with a persistent cart, price sorting, wishlist and checkout flow. | React · React Router · Tailwind CSS · Recharts | [🌐 Live](https://gadget1.netlify.app/) |
 
 <details>
 <summary><b>🔍 What I actually did on each product</b> (click to expand)</summary>
