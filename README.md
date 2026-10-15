@@ -36,7 +36,7 @@ const ayub = {
   shipped: {
     appStore: ["NoteGenie AI", "Daily Gratitude"],
     desktop: "NeuroLauncher (Electron)",
-    web: "Gift Cards Zone BD (Next.js, live store)",
+    web: ["Gift Cards Zone BD (Next.js, live store)", "Device Management System (full-stack)"],
   },
   workflow: "Figma → small milestones → review → release",
   learning: ["System design", ".NET architecture", "Redis", "Flutter"],
@@ -88,6 +88,7 @@ const ayub = {
 | 📱 **Daily Gratitude** | Gratitude journal with voice and photo entries, affirmations and daily streaks. | React Native · Expo · Redux Toolkit · Firebase | [App Store](https://apps.apple.com/us/app/daily-gratitude-planner/id6758459541) |
 | 🖥️ **NeuroLauncher** | Desktop launcher that installs, licenses and opens a client's games and tools, with an admin panel. | Electron · React · TypeScript · Socket.IO | 🔒 Private (client) |
 | 🛒 **Gift Cards Zone BD** | Live store for gift cards, game keys and mobile recharge, with orders, reviews and a customer dashboard. | Next.js · Mantine · Redux Toolkit | [Live](https://giftcardszonebd.com) |
+| 🗄️ **Device Management System** | Client's device management platform with document, export and warehouse features, plus a support portal with ticketing, live chat and an AI assistant. | Next.js · Node.js · Express · MongoDB | 🔒 Private (client) |
 | 🛍️ **ShopSphere** | Multi-vendor e-commerce platform with Stripe checkout, vendor dashboards, real-time buyer–vendor chat and an admin panel. Team project. | Next.js · MongoDB · NextAuth · Socket.IO · Stripe | [Live](https://shops-sphere.vercel.app) · [Code](https://github.com/Team-Synergy1/shop_sphere) |
 | 📚 **Group Study** | Collaborative platform to create, submit and grade assignments. | React · Node.js · Firebase | [Live](https://job-assignment-619c8.web.app) · [Code](https://github.com/ayubislam1/Group-Study) |
 
@@ -99,6 +100,7 @@ const ayub = {
 - **Daily Gratitude**: delivered the visual refresh of the journaling experience, theming and dark mode, screen transition animations, Google and Apple account linking, and profile photo upload.
 - **NeuroLauncher**: primary developer. Built the launcher and its admin panel: catalogue UI, download management with offline caching, licensing and sign-in, and real-time local services with Express and Socket.IO.
 - **Gift Cards Zone BD**: primary developer of the storefront: catalogue, product and deals pages, orders, reviews, customer dashboard, REST API and auth integration, and image/performance optimisation.
+- **Device Management System**: full-stack work across the web app and its API: document, export and warehouse features, plus a support portal with ticketing, live chat and an AI assistant.
 
 </details>
 
