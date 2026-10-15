@@ -59,34 +59,12 @@ const ayub = {
 
 ## 🧰 Tech stack
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css&perline=8" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile & Desktop</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,electron,flutter&perline=8" alt="Mobile and desktop" /><br />
-      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white" alt="RevenueCat" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis,cs,dotnet&perline=8" alt="Backend" /><br />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-      <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=8" alt="Tools" /></td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+    <img src="./assets/stack-light.svg" alt="Tech stack: Mobile (React Native, Expo, Firebase, RevenueCat, Redux Toolkit), Web (Next.js, React, TypeScript, JavaScript, Tailwind CSS, Mantine, shadcn/ui), Desktop (Electron, React, TypeScript, Vite, Socket.IO, Zustand), Backend and Data (Node.js, Express, MongoDB, Firebase, Redis, Stripe, Socket.IO), Tools (Git, GitHub, Figma, Postman, Xcode, PostHog, Vercel), currently learning .NET, C#, Flutter and Dart" width="100%" />
+  </picture>
+</p>
 
 ---
 
