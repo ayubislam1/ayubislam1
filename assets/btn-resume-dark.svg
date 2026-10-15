@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="46" viewBox="0 0 160 46">
+  <rect x=".5" y=".5" width="159" height="45" rx="12" fill="#161B22" stroke="#30363D"/>
+  <g transform="translate(41 14) scale(0.75)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/></g>
+  <text x="69" y="23.0" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="central">Resume</text>
+</svg>

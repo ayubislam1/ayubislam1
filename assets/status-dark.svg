@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="446" height="36" viewBox="0 0 446 36">
+  <defs>
+    <style>
+      .pulse { transform-origin: 22px 18px; animation: pulse 2s ease-out infinite; }
+      @keyframes pulse { 0% { transform: scale(1); opacity: .6; } 100% { transform: scale(2.6); opacity: 0; } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="445" height="35" rx="18.0" fill="#161B22" stroke="#30363D"/>
+  <circle class="pulse" cx="22" cy="18" r="5" fill="#22C55E"/>
+  <circle cx="22" cy="18" r="5" fill="#22C55E"/>
+  <text x="36" y="18" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="central">Open to full-time roles</text>
+  <rect x="214" y="10" width="1" height="16" fill="#30363D"/>
+  <g transform="translate(230 10) scale(0.6666666666666666)" fill="none" stroke="#9198A1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></g>
+  <text x="252" y="18" fill="#9198A1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" text-anchor="start" dominant-baseline="central">Chattogram, Bangladesh</text>
+</svg>

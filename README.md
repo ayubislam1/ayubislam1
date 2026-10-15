@@ -12,16 +12,26 @@
 
 <!-- Quick links -->
 <p align="center">
-  <a href="https://ayubislam1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ayubislam1.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ayub-islam-749284299/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ayubislam863@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ayubislam1.vercel.app/Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://ayubislam1.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="46" /></a>
+  <a href="https://www.linkedin.com/in/ayub-islam-749284299/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" />
+    <img src="./assets/btn-linkedin-light.svg" alt="LinkedIn" height="46" />
+  </picture></a>
+  <a href="mailto:ayubislam863@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" />
+    <img src="./assets/btn-email-light.svg" alt="Email" height="46" />
+  </picture></a>
+  <a href="https://ayubislam1.vercel.app/Resume.pdf"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-resume-dark.svg" />
+    <img src="./assets/btn-resume-light.svg" alt="Resume" height="46" />
+  </picture></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20full--time%20roles-22C55E?style=flat-square" alt="Open to full-time roles" />
-  <img src="https://img.shields.io/badge/based%20in-Chattogram%2C%20Bangladesh-0EA5E9?style=flat-square" alt="Chattogram, Bangladesh" />
-  <img src="https://komarev.com/ghpvc/?username=ayubislam1&label=profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/status-dark.svg" />
+    <img src="./assets/status-light.svg" alt="Open to full-time roles · Chattogram, Bangladesh" height="36" />
+  </picture>
 </p>
 
 ---
@@ -123,6 +133,10 @@ flowchart LR
 ---
 
 ## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayubislam1&label=profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+</p>
 
 <p align="center">
   <picture>
